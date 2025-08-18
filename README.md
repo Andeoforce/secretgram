@@ -1,2 +1,4 @@
-# secretgram
-Secretgram - a mod for secure messaging in Telegram.
+# **SECRETGRAM**
+Secretgram - a mod for secure messaging in Telegram. Any questions? Telegram in profile.
+## Beta-1.0 ##
+The version will be available in September or late August.
