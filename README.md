@@ -4,5 +4,5 @@ Secretgram - a mod for secure messaging in Telegram.
 ## Beta-1.0 ##
 The version will be available in September or late August.
 
-**IN DEVELOPMENT**
+**IN DEVELOPMENT**\
 Any questions? Telegram in profile.
